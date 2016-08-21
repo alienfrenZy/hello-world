@@ -1,2 +1,6 @@
 # hello-world
-A place where I store ideas, resources, or even share and discuss things with others.
+
+Hi guys,
+
+My name is Adrian. I have just started using Github. I am currently learning about branches.
+Check back soon when hopefully I have quite a few more projects in the works. 
